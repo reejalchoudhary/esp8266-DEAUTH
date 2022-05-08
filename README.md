@@ -28,11 +28,11 @@ AFTER SUCCESSFUL FLASHING YOUR ESP8266 MODULE IS READY TO WORK CONNECT IT TO YOU
 #### IP = 192.168.4.1
 
 
-# FOLLOW ME ON:-
-#### INSTAGRAM:- https://www.instagram.com/being._.unique/
+# FOLLOW ME ON😎:-
+#### INSTAGRAM:- www.instagram.com/being._.unique/
 #### TWITTER:- https://twitter.com/ChoudharyReejal
 #### LINKEDIN:- www.linkedin.com/in/reejal-choudhary-532386237
-# CONTACT ME
+# CONTACT ME📱:-
 #### GMAIL:- reejalree@gmail.com
 #### MOBILE:- +917018361108
-If you facing any problem in flashing and other issue  you can contact me.
+If you facing any problem in flashing and other issue  you can contact me😁.
